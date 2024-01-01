@@ -1,0 +1,8 @@
+IF
+	Global("Px_illum","GLOBAL",0)
+	AreaCheck("AR3300")
+THEN
+	RESPONSE #100
+		SetGlobal("Px_illum","GLOBAL",1)
+		CreateCreature("pxluillu",[2764.2967],3)
+END

@@ -1,0 +1,593 @@
+@0 = ~Illumisfhityroc~
+@1 = ~Hello. I sense you're confused, so let me introduce myself. My name is Illumisfhityroc. I come from what you here call the Sea of Night. My species lives a long way from here and I've moved away because I don't agree with its practices. We are memorivores, feeding on the memories of other living beings. But don't worry, I'm reading your mind but I'm not stealing anything from you. I reject with all my being the degrading and intrusive practices of my fellow creatures. I'd prefer to propose something more constructive for both of us: let me absorb some of your memories; not the important ones, just the insignificant ones like the people/animals you've seen out of the corner of your eye in your random wanderings, for example (1200 xp), and pay me 200 of your gold coins and I'll create for you with my psychic powers any object that suits you and that I know of. Such an item would last two days before disappearing. Are you interested?~
+@2 = ~Yes, what can you create for me?~
+@3 = ~Make your choice~
+@4 = ~Hello, I would like you to create an object for me?~
+@5 = ~Yes, what object would you like?~
+@6 = ~Anything else?~
+@7 = ~No, thank you, I don't need your services~
+@8 = ~Hello. I sense you're confused, so let me introduce myself. My name is Illumisfhityroc. I come from what you here call the Sea of Night. My species lives a long way from here and I've moved away because I don't agree with its practices. We are memorivores, feeding on the memories of other living beings. But don't worry, I'm reading your mind but I'm not stealing anything from you. I reject with all my being the degrading and intrusive practices of my fellow creatures. I'd prefer to propose something more constructive for both of us: let me absorb some of your memories; not the important ones, just the insignificant ones like the people/animals you've seen out of the corner of your eye in your random wanderings, for example (1200 xp), and pay me 200 of your gold coins and I'll create for you with my psychic powers any object that suits you and that I know of. Such an item would last five days before disappearing. Are you interested?~
+@9 = ~Damn, I don't have enough gold~
+@10 = ~Hello. Nice to see you again~
+@11 = ~I don't need your services. Goodbye~
+@12 = ~I have so few memories left... I prefer to keep them. Goodbye~
+@101 = ~A dagger.~
+@10199 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Combat abilities:
+Returns to the wielder's hand when thrown
+
+THAC0: +4
+Damage: 1d4+4 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+
+Weight: 0~
+
+@102 = ~A short sword.~
+@10299 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger. The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+DTHAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 0
+Proficiency Type: Short Sword
+Type: One-handed
+
+Weight: 0~
+
+@103 = ~A long sword.~
+@10399 = ~These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d8+4 (slashing)
+Speed Factor: 3
+Proficiency Type: Long Sword
+Type: One-handed
+
+Weight: 0~
+
+@104 = ~A scimitar.~
+@10499 = ~The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of FaerÃ»n. Whereas the saber was intended chiefly for horsemen, mainly due to its versatility, the scimitar has a heavier oriental influence. The "shamshir," as it was originally called, is larger, more highly curved, and tapered to an elongated, sharp point. This makes the weapon slightly slower but more effective and deadly in combat.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d8+4 (slashing)
+Speed Factor: 1
+Proficiency Type: Scimitar/Wakizashi/Ninjato
+Type: One-handed
+
+Weight: 0~
+
+@105 = ~A katana.~
+@10599 = ~The katana is a single-edged, slightly curved sword that ends with a chisel point. The katana is perhaps one of the finest swords ever made, the steps to its creation a long and secret process that is more art form than anything else. This blade is an important facet of Kara-Turan culture. To touch or wield a samurai's katana is to insult the samurai and to incite his wrath. For a gaijin, or foreigner, to own such a blade is a rare occurrence. Either the gaijin is a greatly honored friend of an important minister, or the gaijin has murdered a samurai.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d10+4 (slashing)
+Speed Factor: 0
+Proficiency Type: Katana
+Type: One-handed
+
+Weight: 5~
+
+@106 = ~A bastard sword.~
+@10699 = ~Also known as the hand-and-a-half sword, the bastard sword derives its name from the fact that it is halfway between the two-handed sword and the long sword. The bastard sword has a double-edged blade and a long grip, which can accommodate both hands if preferred. The overall length of the bastard sword ranges between four feet and four feet ten inches.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 2d4+4 (slashing)
+Speed Factor: 4
+Proficiency Type: Bastard Sword
+Type: One-handed
+
+Weight: 0~
+
+@107 = ~A two-handed sword.~
+@10799 = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d10+4 (slashing)
+Speed Factor: 6
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+
+Weight: 0~
+
+@108 = ~A battle axe.~
+@10899 = ~The most common version of the battle axe is a stout pole about four feet in length with a single-edged, trumpet-shaped blade mounted on one end. Battle axes are also called broad axes. 
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Combat abilities:
+Returns to the wielder's hand when thrown
+
+THAC0: +4
+Damage: 1d6+4
+Damage type (melee): slashing
+Damage type (thrown): missile
+Speed Factor: 0
+Proficiency Type: Axe
+Type: One-handed
+
+Weight: 0~
+
+@109 = ~A war hammer.~
+@10999 = ~Mounted knights cannot effectively use long pole weapons while on horseback and, as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two examples of this, the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. (Rondels are small disks of metal, often shaped into decorative designs.) The shaft is about eighteen inches long.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+
+STATISTICS:
+
+STATISTICS:
+
+Combat abilities:
+Returns to the wielder's hand when thrown
+
+THAC0: +4
+Damage: 1d4+5
+Damage type (melee): Crushing
+Damage type (thrown): Missile
+Speed Factor: 0
+Proficiency Type: War Hammer
+Type: One-handed
+
+Weight: 0~
+
+@1010 = ~A club.~
+@101099 = ~Most clubs are stout, hardwood sticks, narrow at the grip and wider at the end. This simple weapon has been used since people first began using tools. Anyone can find a good stout piece of wood and swing it; hence the club's widespread use.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (crushing)
+Speed Factor: 0
+Proficiency Type: Club
+Type: One-handed
+
+Weight: 0~
+
+@1011 = ~A mace.~
+@101199 = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with a stone or iron head mounted on the end. The head design varies: Some are spiked, others flanged, and still others have pyramidal knobs.
+
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+5 (crushing)
+Speed Factor: 3
+Proficiency Type: Mace
+Type: One-handed
+
+Weight: 0~
+
+@1012 = ~A flail.~
+@101299 = ~The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon was originally used as a tool for threshing grain.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+5 (crushing)
+Speed Factor: 3
+Proficiency Type: Flail/Morning Star
+Type: One-handed
+
+Weight: 0~
+
+@1013 = ~A spear.~
+@101399 = ~One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When the civilized races mastered metals, spearheads were made from iron and steel. Having reached this end, weaponsmiths began experimenting with different types of spearheads, thus leading to the development of certain polearm types.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 2
+Proficiency Type: Spear
+Type: Two-handed
+
+Weight: 0~
+
+@1014 = ~A halberd.~
+@101499 = ~By far the oldest and most often used polearm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe.
+
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d10+4 (piercing or slashing)
+Speed Factor: 5
+Proficiency Type: Halberd
+Type: Two-handed
+
+Weight: 0~
+
+@1015 = ~A quarterstaff.~
+@101599 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+
+Weight: 0~
+
+@1016 = ~A crossbow.~
+@101699 = ~A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt). 
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+THAC0: +4
+Damage: +6 (missile)
+Speed Factor: 8
+Proficiency Type: Crossbow
+Type: Two-handed
+
+Weight: 0~
+
+@1017 = ~A longbow.~
+@101799 = ~Composite bows are longbows or shortbows whose staves are made from more than one type of material. This gives greater flexibility and makes arrows fired from this bow deliver more damage. These were developed after the normal longbow.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +5
+Damage: +1 (missile)
+Speed Factor: 3
+Proficiency Type: Longbow
+Type: Two-handed
+
+Weight: 0~
+
+@1018 = ~A shortbow.~
+@101899 = ~Les arcs courts ont été fabriqués avant les autres, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Les branches d'arc court mesurent 1,50 m en moyenne. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur des branches, tantôt on améliorait leur flexibilité sans modifier leur longueur. La première expérience a engendré ce qui s'appelle aujourd'hui l'arc long.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Speed Factor: 2
+Proficiency Type: Shortbow
+Type: Two-handed
+
+Weight: 0~
+
+@1019 = ~A sling.~
+@101999 = ~Slings have existed since the beginning of recorded history. The basic sling consists of a leather or fabric strap with a pouch for holding the missile. The weapon is held by both ends of the strap and twirled around the wielder's head. When top speed is attained, the missile is launched by releasing one of the strap's ends.
+
+This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+THAC0: +4
+Damage: +4 (missile)
+Speed Factor: 2
+Proficiency Type: Sling
+Type: One-handed
+
+Weight: 0~
+
+@1020 = ~Some bolts.~
+@102099 = ~Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size.
+
+This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Special: infinite: is recreated in the crossbow after each shot.
+
+THAC0: +3
+Damage: 1d8 (missile)
+Launcher: Crossbow
+
+Weight: 0~
+
+@1021 = ~Some arrows.~
+@102199 = ~The flight arrow, as its name implies, is built for distance. These are lightweight arrows and are often used for hunting. Most of these arrows are made of ash or birch and are thirty to forty inches long.
+
+
+This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Special: infinite: is recreated in the bow after each shot.
+
+THAC0: +4
+Damage: 1d6 (missile)
+Launcher: Bow
+
+Weight: 0~
+
+@1022 = ~Some bullets~
+@102299 = ~A bullet is simply a rounded, well-balanced stone.
+
+This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Spécial : infinie : est recrée dans la fronde après chaque tir.
+
+THAC0: +4
+Damage: 1d4+5 (missile)
+Launcher: Sling
+
+Weight: 0~
+
+@1023 = ~Some darts.~
+@102399 = ~The dart is a small, easily concealable missile weapon that is thrown rather than fired from a bow or other launcher. 
+
+This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Combat abilities:
+Returns to the wielder's hand when thrown
+
+THAC0: +4
+Damage: 1d3+4 (missile)
+Speed Factor: 0
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 0~
+
+@1024 = ~A light armor.~
+@102499 = ~Studded leather armor has little in common with normal leather armor. Instead of a hardened shell, studded leather offers hundreds of metal rivets affixed to a supple backing. The numerous studs form a flexible coat of metal that helps to turn aside slashing and cutting attacks, while the leather is little more than a means of securing the rivets in place. 
+
+This armor was created by an extraplanar being. Although it has all the features of standard armor, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+
+Equipped abilities:
+Spellcasting is not disabled
+
+Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
+
+Weight: 0~
+
+@1025 = ~A medium armor.~
+@102599 = ~Chain mail is made of interlocking metal rings. It is always worn over a layer of padded fabric or soft leather to prevent chafing and lessen the impact of blows. 
+
+This armor was created by an extraplanar being. Although it has all the features of standard armor, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Equipped abilities:
+Spellcasting is not disabled
+Usable by thiefs, don't disabled thief abilitiesb
+
+Armor Class: 1 (-1 vs. slashing, 3 vs. crushing)
+
+Weight: 0~
+
+@1026 = ~A heavy armor.~
+@102699 = ~Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted, interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail.
+
+This armor was created by an extraplanar being. Although it has all the features of standard armor, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted, interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail. With its magical enchantments, this suit of full plate is ideal for warriors.
+
+STATISTICS:
+
+Armor Class: -3 (-7 vs. slashing, -6 vs. piercing and missile)
+
+Weight: 0~
+
+@1027 = ~Some bracers of defense.~
+@102799 = ~Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm.
+
+These bracelets were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
+
+STATISTICS:
+
+Equipped abilities:
+Armor Class: 1
+
+Weight: 2~
+
+@1028 = ~A small shield.~
+@102899 = ~A buckler, also known as a target shield, is a small round shield of wood or metal that fastens to the forearm. Because of its size, it is light and can be worn with very little restriction to movement.
+
+This shield was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+Equipped abilities:
+Armor Class: +5
+No protection against missile and piercing attacks
+
+Weight: 0~
+
+@1029 = ~A large shield~
+@102999 = ~The body shield, also known as the kite or tower shield, is a massive metal or wooden shield reaching nearly from the chin to the toe of the user. It must be firmly fastened to the forearm, and the shield hand must firmly grip it at all times. Naturally, this precludes use of the shield hand for anything but holding the body shield in place.
+
+This shield was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
+
+STATISTICS:
+
+Equipped abilities:
+Armor Class: +5, an extra +1 vs. missile attacks
+
+Weight: 0~
+
+@1030 = ~Something that protects against the elements.~
+@103099 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Elemental resistances: +40%~
+
+@1031 = ~Something that protects against mental attacks.~
+@103199 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Immunity to charm, confusion, fear, domination, ESP, Detect Alignment, hold, stun, psionics, sleep, and feeblemind.~
+
+@1032 = ~Something that protects against physical attacks.~
+@103299 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Physical damage resistance: +25%~
+
+@1033 = ~Something that protects against magic.~
+@103399 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Magic resistance: +25~
+
+@1034 = ~Something that protects against poisons.~
+@103499 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Protection against poison and disease~
+
+@1035 = ~Something that protects against negative energy.~
+@103599 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Protection against death magic and the Negative Plane~
+
+@1036 = ~Something that protects against hindrance.~
+@103699 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Equipped abilities:
+The wearer is immune to everything, magical and otherwise, that affects mobility in bad way. This includes Slow spells.~
+
+@1037 = ~Something that just protects.~
+@103799 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Equipped abilities:
+Armor Class: +3
+Saving Throws: +3~
+
+@1038 = ~Something that heals.~
+@103899 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Equipped abilities: 
+Regenerate 1 Hit Point per 5 seconds~
+
+@1039 = ~Something that makes me very strong.~
+@103999 = ~Les ceinturons ressemblent généralement aux ceintures. Mais à la différence de ces dernières, ils ne servent pas à retenir les pantalons ou les salopettes, mais à porter bourses, fourreaux et choses de ce genre.
+
+This belt was created by an extraplanar being. Although it has all the features of a standard belt, it is composed of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Equipped abilities:
+Strength: 19
+
+Weight: 0~
+
+@1040 = ~Something that makes me very dexterous.~
+@104099 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+These bracelets were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
+
+STATISTICS:
+
+Equipped abilities:
+Dexterity: 19
+
+Weight: 0~
+
+@1041 = ~Something that makes me very fast.~
+@104199 = ~Les bottes sont généralement fabriquées artisanalement par des cordonniers. Les bottes ordinaires sont fabriquées à l'aide d'un moule, mais les bottes de qualité supérieure sont faites sur mesure.
+
+These boots were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
+
+
+STATISTICS:
+
+Equipped abilities:
+Combat abilities:
+Extra 1/2 attack per round
+Increases movement speed.~
+
+@1042 = ~Something that's useful to everyone.~
+@104299 = ~This is a small stone that floats in an orbit around the owner's head. Simply equip the stone to set it in its orbit. These obviously magical stones have different properties depending on their color.
+
+This Ioun stone was created by an extraplanar being. Although it has all the features of a standard stone, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
+
+STATISTICS:
+
+Equipped abilities:
+Armor Class: +2~
+
+@1043 = ~Something to make me master of the world.~
+@104399 = ~I'm sorry, I don't *know* anything that does that.~

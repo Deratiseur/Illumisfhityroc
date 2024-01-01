@@ -1,0 +1,116 @@
+BACKUP ~Derats_Illum/Backup~
+AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
+VERSION ~v1~
+
+AUTO_TRA ~Derats_Illum/Languages/%s~ /////%s~
+
+LANGUAGE ~Francais~	~French~
+	~Derats_Illum/Languages/French/pxluillu.tra~
+
+	LANGUAGE ~English~	~English~
+	~Derats_Illum/Languages/English/pxluillu.tra~
+
+BEGIN @0
+REQUIRE_PREDICATE GAME_IS ~BGEE EET IWDEE~ @0009
+
+COPY	~Derats_Illum/Copy~						~override~
+
+ACTION_IF GAME_IS ~BGEE EET~ THEN BEGIN
+EXTEND_TOP ~AR3300.BCS~	~Derats_Illum/Scripts/pxlu3300.baf~
+EXTEND_TOP ~AR0700.BCS~	~Derats_Illum/Scripts/pxlu0700.baf~
+END
+
+ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
+EXTEND_TOP ~AR2100.BCS~	~Derats_Illum/Scripts/pxlu2100.baf~
+COPY_EXISTING	~pxlu01.spl~			~override/pxlu02.spl~	WRITE_BYTE 0xd8 5
+END
+
+COMPILE ~Derats_Illum/Scripts/pxluillu.baf~
+COMPILE ~Derats_Illum/pxluillu.d~
+
+
+COPY	~Derats_Illum/pxluillu.cre~			~override~	SAY NAME1 @0	SAY NAME2 @0
+COPY	~Derats_Illum/Objets/pxludagg.itm~	~override~	SAY	DESC @10199
+COPY	~Derats_Illum/Objets/pxlucour.itm~	~override~	SAY	DESC @10299
+COPY	~Derats_Illum/Objets/pxlulong.itm~	~override~	SAY	DESC @10399
+COPY	~Derats_Illum/Objets/pxlucime.itm~	~override~	SAY	DESC @10499
+COPY	~Derats_Illum/Objets/pxlukata.itm~	~override~	SAY	DESC @10599
+COPY	~Derats_Illum/Objets/pxlubata.itm~	~override~	SAY	DESC @10699
+COPY	~Derats_Illum/Objets/pxlu2mai.itm~	~override~	SAY	DESC @10799
+COPY	~Derats_Illum/Objets/pxluhach.itm~	~override~	SAY	DESC @10899
+COPY	~Derats_Illum/Objets/pxlumart.itm~	~override~	SAY	DESC @10999
+COPY	~Derats_Illum/Objets/pxlugour.itm~	~override~	SAY	DESC @101099
+COPY	~Derats_Illum/Objets/pxlumass.itm~	~override~	SAY	DESC @101199
+COPY	~Derats_Illum/Objets/pxluflea.itm~	~override~	SAY	DESC @101299
+COPY	~Derats_Illum/Objets/pxlulanc.itm~	~override~	SAY	DESC @101399
+COPY	~Derats_Illum/Objets/pxluhall.itm~	~override~	SAY	DESC @101499
+COPY	~Derats_Illum/Objets/pxlubato.itm~	~override~	SAY	DESC @101599
+COPY	~Derats_Illum/Objets/pxluarba.itm~	~override~	SAY	DESC @101699
+COPY	~Derats_Illum/Objets/pxluarcl.itm~	~override~	SAY	DESC @101799
+COPY	~Derats_Illum/Objets/pxluarcc.itm~	~override~	SAY	DESC @101899
+COPY	~Derats_Illum/Objets/pxlufron.itm~	~override~	SAY	DESC @101999
+COPY	~Derats_Illum/Objets/pxlucarr.itm~	~override~	SAY	DESC @102099
+COPY	~Derats_Illum/Objets/pxluflec.itm~	~override~	SAY	DESC @102199
+COPY	~Derats_Illum/Objets/pxlubill.itm~	~override~	SAY	DESC @102299
+COPY	~Derats_Illum/Objets/pxluchet.itm~	~override~	SAY	DESC @102399
+COPY	~Derats_Illum/Objets/pxlubesa.itm~	~override~	SAY	DESC @102499
+COPY	~Derats_Illum/Objets/pxluchai.itm~	~override~	SAY	DESC @102599
+COPY	~Derats_Illum/Objets/pxluplat.itm~	~override~	SAY	DESC @102699
+COPY	~Derats_Illum/Objets/pxluarma.itm~	~override~	SAY	DESC @102799
+COPY	~Derats_Illum/Objets/pxlutarg.itm~	~override~	SAY	DESC @102899
+COPY	~Derats_Illum/Objets/pxlupavo.itm~	~override~	SAY	DESC @102999
+COPY	~Derats_Illum/Objets/pxluelem.itm~	~override~	SAY	DESC @103099
+COPY	~Derats_Illum/Objets/pxlument.itm~	~override~	SAY	DESC @103199
+COPY	~Derats_Illum/Objets/pxluphys.itm~	~override~	SAY	DESC @103299
+COPY	~Derats_Illum/Objets/pxlumagi.itm~	~override~	SAY	DESC @103399
+COPY	~Derats_Illum/Objets/pxlupois.itm~	~override~	SAY	DESC @103499
+COPY	~Derats_Illum/Objets/pxlumort.itm~	~override~	SAY	DESC @103599
+COPY	~Derats_Illum/Objets/pxlulibe.itm~	~override~	SAY	DESC @103699
+COPY	~Derats_Illum/Objets/pxluprot.itm~	~override~	SAY	DESC @103799
+COPY	~Derats_Illum/Objets/pxlurege.itm~	~override~	SAY	DESC @103899
+COPY	~Derats_Illum/Objets/pxluforc.itm~	~override~	SAY	DESC @103999
+COPY	~Derats_Illum/Objets/pxludext.itm~	~override~	SAY	DESC @104099
+COPY	~Derats_Illum/Objets/pxlurapi.itm~	~override~	SAY	DESC @104199
+COPY	~Derats_Illum/Objets/pxluioni.itm~	~override~	SAY	DESC @104299
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu02.spl~	WRITE_ASCII 0xde ~pxlucour~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu03.spl~	WRITE_ASCII 0xde ~pxlulong~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu04.spl~	WRITE_ASCII 0xde ~pxlucime~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu05.spl~	WRITE_ASCII 0xde ~pxlukata~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu06.spl~	WRITE_ASCII 0xde ~pxlubata~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu07.spl~	WRITE_ASCII 0xde ~pxlu2mai~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu08.spl~	WRITE_ASCII 0xde ~pxluhach~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu09.spl~	WRITE_ASCII 0xde ~pxlumart~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu10.spl~	WRITE_ASCII 0xde ~pxlugour~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu11.spl~	WRITE_ASCII 0xde ~pxlumass~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu12.spl~	WRITE_ASCII 0xde ~pxluflea~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu13.spl~	WRITE_ASCII 0xde ~pxlulanc~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu14.spl~	WRITE_ASCII 0xde ~pxluhall~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu15.spl~	WRITE_ASCII 0xde ~pxlubato~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu16.spl~	WRITE_ASCII 0xde ~pxluarba~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu17.spl~	WRITE_ASCII 0xde ~pxluarcl~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu18.spl~	WRITE_ASCII 0xde ~pxluarcc~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu19.spl~	WRITE_ASCII 0xde ~pxlufron~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu20.spl~	WRITE_ASCII 0xde ~pxlucarr~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu21.spl~	WRITE_ASCII 0xde ~pxluflec~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu22.spl~	WRITE_ASCII 0xde ~pxlubill~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu23.spl~	WRITE_ASCII 0xde ~pxluchet~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu24.spl~	WRITE_ASCII 0xde ~pxlubesa~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu25.spl~	WRITE_ASCII 0xde ~pxluchai~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu26.spl~	WRITE_ASCII 0xde ~pxluplat~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu27.spl~	WRITE_ASCII 0xde ~pxluarma~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu28.spl~	WRITE_ASCII 0xde ~pxlutarg~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu29.spl~	WRITE_ASCII 0xde ~pxlupavo~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu30.spl~	WRITE_ASCII 0xde ~pxluelem~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu31.spl~	WRITE_ASCII 0xde ~pxlument~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu32.spl~	WRITE_ASCII 0xde ~pxluphys~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu33.spl~	WRITE_ASCII 0xde ~pxlumagi~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu34.spl~	WRITE_ASCII 0xde ~pxlupois~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu35.spl~	WRITE_ASCII 0xde ~pxlumort~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu36.spl~	WRITE_ASCII 0xde ~pxlulibe~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu37.spl~	WRITE_ASCII 0xde ~pxluprot~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu38.spl~	WRITE_ASCII 0xde ~pxlurege~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu39.spl~	WRITE_ASCII 0xde ~pxluforc~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu40.spl~	WRITE_ASCII 0xde ~pxludext~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu41.spl~	WRITE_ASCII 0xde ~pxlurapi~ #8
+COPY_EXISTING	~pxlu01.spl~	~override/pxlu42.spl~	WRITE_ASCII 0xde ~pxluioni~ #8
+COPY_EXISTING	~amcall.vvc~				~override/pxfycalv.vvc~	WRITE_ASCII 0x8 ~pxfycal2~ #8	WRITE_ASCII 0x78 ~pxfycalo~ #8

@@ -1,0 +1,30 @@
+IF
+	AreaCheck("AR3300")
+	Global("Px_illum","GLOBAL",2)
+THEN
+	RESPONSE #100
+		SetGlobal("Px_illum","GLOBAL",3)
+		Deactivate(Myself)
+END
+
+IF
+	AttackedBy([GOODCUTOFF],DEFAULT)
+	!Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		Enemy()
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		ReallyForceSpellRes("pxl2jcvn",NearestEnemyOf(Myself))
+END
+
+IF
+	AttackedBy([ANYONE],DEFAULT)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRes("pxl2jcvn",LastAttackerOf(Myself))
+END
