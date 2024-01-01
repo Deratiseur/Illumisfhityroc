@@ -13,7 +13,7 @@
 
 Une extra-terrestre qui loue des objets temporaires pour 200 pos et 1200 xps.
 
-Vous le trouverez :
+Vous la trouverez :
 
 - BGEE : à Bérégost et plus tard sur la Place centrale de la Porte de Baldur. Les objets durent 2 jours.
    
