@@ -285,7 +285,7 @@ Type: Two-handed
 Weight: 0~
 
 @1018 = ~A shortbow.~
-@101899 = ~Les arcs courts ont été fabriqués avant les autres, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Les branches d'arc court mesurent 1,50 m en moyenne. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur des branches, tantôt on améliorait leur flexibilité sans modifier leur longueur. La première expérience a engendré ce qui s'appelle aujourd'hui l'arc long.
+@101899 = ~Shortbows were the first bows to be developed, although they were not called such. This is more of a default term that refers to anything which is not a longbow. Shortbow staves are about five feet long on the average. As the years passed, attempts were made to increase bow ranges. Bows were either given longer staves or flexibility was increased with no change to the length. The former resulted in what is now called the longbow.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
 
@@ -351,7 +351,7 @@ This projectile was created by an extraplanar being. Although it has all the fea
 
 STATISTICS:
 
-Spécial : infinie : est recrée dans la fronde après chaque tir.
+Special: infinite: is recreated in the sling after each shot.
 
 THAC0: +4
 Damage: 1d4+5 (missile)
@@ -401,7 +401,7 @@ STATISTICS:
 
 Equipped abilities:
 Spellcasting is not disabled
-Usable by thiefs, don't disabled thief abilitiesb
+Thief abilities aren't disabled
 
 Armor Class: 1 (-1 vs. slashing, 3 vs. crushing)
 
@@ -491,7 +491,7 @@ This piece of jewelry was created by an extraplanar being. Although it has all t
 
 STATISTICS:
 
-Magic resistance: +25~
+Magic resistance: +25%~
 
 @1034 = ~Something that protects against poisons.~
 @103499 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
@@ -543,7 +543,7 @@ Equipped abilities:
 Regenerate 1 Hit Point per 5 seconds~
 
 @1039 = ~Something that makes me very strong.~
-@103999 = ~Les ceinturons ressemblent généralement aux ceintures. Mais à la différence de ces dernières, ils ne servent pas à retenir les pantalons ou les salopettes, mais à porter bourses, fourreaux et choses de ce genre.
+@103999 = ~Girdles are generally similar to belts. Unlike belts, girdles are not used to hold up pants and dungarees, but to carry pouches, scabbards, and the like. 
 
 This belt was created by an extraplanar being. Although it has all the features of a standard belt, it is composed of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
 
@@ -555,7 +555,7 @@ Strength: 19
 Weight: 0~
 
 @1040 = ~Something that makes me very dexterous.~
-@104099 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+@104099 = ~Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm.
 
 These bracelets were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
 
@@ -567,7 +567,7 @@ Dexterity: 19
 Weight: 0~
 
 @1041 = ~Something that makes me very fast.~
-@104199 = ~Les bottes sont généralement fabriquées artisanalement par des cordonniers. Les bottes ordinaires sont fabriquées à l'aide d'un moule, mais les bottes de qualité supérieure sont faites sur mesure.
+@104199 = ~Boots are normally handmade by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual.
 
 These boots were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
 
@@ -577,7 +577,9 @@ STATISTICS:
 Equipped abilities:
 Combat abilities:
 Extra 1/2 attack per round
-Increases movement speed.~
+Increases movement speed
+
+Weight: 0~
 
 @1042 = ~Something that's useful to everyone.~
 @104299 = ~This is a small stone that floats in an orbit around the owner's head. Simply equip the stone to set it in its orbit. These obviously magical stones have different properties depending on their color.
