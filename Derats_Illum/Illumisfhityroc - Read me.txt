@@ -1,5 +1,9 @@
 Illumisfhityroc is an exterior you can't miss when you see it, it's really very recognizable.
-Its ability to create powerful (+4), time-limited items that you'll need to "buy" with 1200xp and 200 gold coins.
+Its ability to create powerful (+4), time-limited items that you'll need to "buy" with 1000xp and 200 gold coins.
 
 In BGEE/EET you'll find her in Beregost, then when you have access to Baldur's Gate she moves to the BG central place. Items created last 2 days.
 In IWDEE you'll find it in Kuldahar. Items created last 5 days.
+
+
+Update:
+V2: price in xp reduced from 1200xp to 1000 xps, correction for EET where internal zone names are not the same.
