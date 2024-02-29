@@ -7,7 +7,7 @@ IF ~Global("pxluilluvu","GLOBAL",0) AreaCheck("AR3300")~ THEN BEGIN Illumintro	S
 	IF ~XPLT(LastTalkedToBy,2000)~ THEN REPLY @12 DO ~SetGlobal("pxluilluvu","GLOBAL",1)~ EXIT	
 END
 
-IF ~Global("pxluilluvu","GLOBAL",0) AreaCheck("BR3300")~ THEN BEGIN Illumintro	SAY @1
+IF ~Global("pxluilluvu","GLOBAL",0) AreaCheck("BG3300")~ THEN BEGIN Illumintro	SAY @1
 	IF ~PartyGoldGT(199) XPGT(LastTalkedToBy,999)~ THEN REPLY @2 DO ~SetGlobal("pxluilluvu","GLOBAL",1)~ GOTO Premierchoix
 	IF ~PartyGoldGT(199) XPGT(LastTalkedToBy,999)~ THEN REPLY @11 DO ~SetGlobal("pxluilluvu","GLOBAL",1)~ EXIT
 	IF ~PartyGoldLT(200)~ THEN REPLY @9 DO ~SetGlobal("pxluilluvu","GLOBAL",1)~ EXIT
