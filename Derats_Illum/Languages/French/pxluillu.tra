@@ -12,6 +12,7 @@
 @11 = ~Je n'ai pas besoin de vos services. Au revoir~
 @12 = ~Il me reste si peu de souvenirs... je préfère les garder. Au revoir~
 @101 = ~Une dague.~
+@10198 = ~Dague d'Illumisfhityroc +4~
 @10199 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -31,6 +32,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @102 = ~Une épée courte.~
+@10298 = ~Épée courte d'Illumisfhityroc +4~
 @10299 = ~L'épée courte est le premier type d'épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu'on ne pourrait plus l'appeler dague. Le terme épée courte n'entre pas dans les catégories d'épées. Pourtant, il est utilisé pour décrire une lame à double tranchant longue d'environ 60 cm. L'estoc de l'épée est généralement pointu, et on la range donc parmi les armes perforantes.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -46,6 +48,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @103 = ~Une épée longue.~
+@10398 = ~Épée longue d'Illumisfhityroc +4~
 @10399 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -61,6 +64,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @104 = ~Un cimeterre.~
+@10498 = ~Cimeterre d'Illumisfhityroc +4~
 @10499 = ~La longue lame simple et incurvée est la caractéristique des sabres et des cimeterres, bien qu'ils n'aient pas la même origine dans Féérune. Alors que le sabre était fait essentiellement pour les cavaliers, notamment pour sa polyvalence, le cimeterre est issu d'une influence plus orientale. Le "shamshir", comme on l'appelait au début, est plus grand et plus recourbé, et il s'effile sur une pointe très allongée. Cela le rend un peu plus lent, mais plus efficace et mortel en combat.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -76,6 +80,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @105 = ~Un katana.~
+@10598 = ~Katana d'Illumisfhityroc +4~
 @10599 = ~Le katana est une épée légèrement courbée à simple tranchant, dont la lame se termine en pointe. C'est probablement une des meilleures épées jamais conçues. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage importabatant, ou bien qu'il ait assassiné un samouraï.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -91,6 +96,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @106 = ~Une épée bâtarde.~
+@10698 = ~Épée bâtarde d'Illumisfhityroc +4~
 @10699 = ~Également connue sous le nom d'épée à une main et demie, l'épée bâtarde tire son nom de son aspect intermédiaire entre l'épée à 2 mains et l'épée longue. Elle possède une lame à double tranchant et une longue poignée, qui peut éventuellement accueillir les deux mains. La longueur de l'épée bâtarde varie entre 1,20 et 1,50 m.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -106,6 +112,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @107 = ~Une épée à deux mains.~
+@10798 = ~Épée à deux mains d'Illumisfhityroc +4~
 @10799 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les armuriers ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. 
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -121,6 +128,7 @@ Type : arme à 2 mains
 Poids : 0~
 
 @108 = ~Une hache d'arme.~
+@10898 = ~Hache d'Illumisfhityroc +4~
 @10899 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches. 
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -133,13 +141,14 @@ TAC0 : +4
 Dégâts : 1D8+4
 Type de dégât (mêlée) : tranchant
 Type de dégât (lancée) : projectile
-Facteur de vitesse : 2
+Facteur de vitesse : 3
 Type de compétence : Hache
 Type : Arme à 1 main
 
 Poids : 0~
 
 @109 = ~Un marteau de guerre.~
+@10998 = ~Marteau d'Illumisfhityroc +4~
 @10999 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -159,6 +168,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @1010 = ~Un gourdin.~
+@101098 = ~Gourdin d'Illumisfhityroc +4~
 @101099 = ~La plupart des gourdins sont de gros bâtons résistants, étroits à une extrémité et plus large à l'autre. Cette arme simple est utilisée depuis que l'homme a découvert les outils. N'importe qui peut trouver un gros morceau de bois et le brandir, d'où l'utilisation très répandue du gourdin.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -174,6 +184,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @1011 = ~Une masse.~
+@101198 = ~Masse d'Illumisfhityroc +4~
 @101199 = ~La masse descend directement du simple gourdin. C'est une simple hampe de bois avec une tête en pierre ou en fer fixée à son extrémité. La forme de la tête varie : certaines sont pointues, d'autres à rebord, et d'autres encore ont une tête pyramidale.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -189,6 +200,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @1012 = ~Un fléau.~
+@101298 = ~Fléau d'Illumisfhityroc +4~
 @101299 = ~Le fléau est une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une balle en fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Cette arme servait à l'origine à battre le grain.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -204,6 +216,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @1013 = ~Une lance.~
+@101398 = ~Lance d'Illumisfhityroc +4~
 @101399 = ~La lance, l'une des premières armes de l'homme, remonte aux temps les plus reculés et était initialement constitué d'un pic ou d'un bâton de bois taillé en pointe à une extrémité. Avec la découverte et la maîtrise des métaux, les hommes ont commencé à remplacer les pointes en bois par des pointes en fer et en acier. Les armuriers ont alors pu essayer différents types de pointes, ce qui a permis l'élaboration de certains types d'armes d'hast.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -219,6 +232,7 @@ Type : arme à 2 mains
 Poids : 0~
 
 @1014 = ~Une hallebarde.~
+@101498 = ~Hallebarde d'Illumisfhityroc +4~
 @101499 = ~De loin l'arme d'hast la plus ancienne et la plus répandue, la hallebarde se compose d'une hache en forme de couperet montée sur un bâton de 1,80 m de long. La hache est équilibrée à l'arrière par un barbillon et surmontée d'une pointe acérée, généralement de forme quadrangulaire. Le barbillon est parfois remplacé par un crochet utilisé pour faire tomber l'ennemi de cheval. La hallebarde est en réalité un croisement entre la lance et la hache. 
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -234,6 +248,7 @@ Type : arme à 2 mains
 Poids : 0~
 
 @1015 = ~Un bâton.~
+@101598 = ~Bâton d'Illumisfhityroc +4~
 @101599 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains. 
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -249,6 +264,7 @@ Type : arme à 2 mains
 Poids : 0~
 
 @1016 = ~Une arbalète.~
+@101698 = ~Arbalète d'Illumisfhityroc +4~
 @101699 = ~Une arbalète est un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if. L'arbalète décoche un carreau lourd (également appelé simplement carreau).
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -263,6 +279,7 @@ Type : arme à 2 mains
 Poids : 0~
 
 @1017 = ~Un arc long.~
+@101798 = ~Arc d'Illumisfhityroc +4~
 @101799 = ~Les arcs composites sont des arcs longs ou courts dont les branches sont faites de plusieurs matériaux. Cela rend l'arc plus souple, ce qui accroît sa portée. Ceux-ci ont été conçus après l'arc long ordinaire. 
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -292,6 +309,7 @@ Type : arme à 2 mains
 Poids : 0~
 
 @1019 = ~Une fronde.~
+@101998 = ~Fronde d'Illumisfhityroc +4~
 @101999 = ~Les frondes existent depuis la nuit des temps. La fronde de base se compose d'une courroie en cuir ou en tissu comportant une bourse pouvant contenir un projectile. L'utilisateur fait tourner la courroie en la tenant par les 2 extrémités. Lorsque la vitesse maximale est atteinte, il suffit de relâcher l'une des extrémités de la courroie pour larguer le projectile.
 
 Cette arme a été crée par un être extraplanaire. Même si elle a tout les traits d'une arme standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -307,6 +325,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @1020 = ~Des carreaux.~
+@102098 = ~Carreau infini d'Illumisfhityroc +3~
 @102099 = ~Les carreaux lourds et les carreaux légers sont les munitions tirées par les arbalètes quelle que soit la taille de l'arme.
 
 Ce projectile a été crée par un être extraplanaire. Même si il a tout les traits d'un projectile standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -322,6 +341,7 @@ Arme de jet : arbalète
 Poids : 0~
 
 @1021 = ~Des flèches.~
+@102198 = ~Flèche infinie d'Illumisfhityroc +3~
 @102199 = ~La flèche légère, comme son nom l'indique, est conçue pour la distance. C'est une flèche rapide et très utilisée pour la chasse. La plupart des flèches sont taillées dans du bouleau ou du frêne et mesurent de 75 cm à 1 m de long.
 
 Ce projectile a été crée par un être extraplanaire. Même si il a tout les traits d'un projectile standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -337,6 +357,7 @@ Arme de jet : arc
 Poids : 0~
 
 @1022 = ~Des billes.~
+@102298 = ~Bille infinis d'Illumisfhityroc +3~
 @102299 = ~Une bille est une pierre ronde et calibrée. 
 
 Ce projectile a été crée par un être extraplanaire. Même si il a tout les traits d'un projectile standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -352,6 +373,7 @@ Arme de jet : fronde
 Poids : 0~
 
 @1023 = ~Des fléchettes.~
+@102398 = ~Fléchette infinie d'Illumisfhityroc +3~
 @102399 = ~La fléchette est un petit projectile qui peut être facilement dissimulé, lancé plutôt que tiré par un arc ou une autre arme de jet.
 
 Ce projectile a été crée par un être extraplanaire. Même si il a tout les traits d'un projectile standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -369,6 +391,7 @@ Type : arme à 1 main
 Poids : 0~
 
 @1024 = ~Une armure légère.~
+@102498 = ~Besantine d'Illumisfhityroc +4~
 @102499 = ~La besantine a peu de choses en commun avec une armure de cuir normale. L'armure de cuir est une protection renforcée, la besantine est souple et comporte des centaines de rivets. Ces derniers sont tellement rapprochés qu'ils forment une couche flexible de métal dur qui permet de contrer toute attaque cinglante et tranchante. Le renforcement de cuir souple n'est rien de plus qu'un moyen de maintenir les rivets en place.
 
 Cette armure a été crée par un être extraplanaire. Même si elle a tout les traits d'une armure standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -382,6 +405,7 @@ Classe d'Armure : 3 (1 contre les armes tranchantes, 2 contre les armes perfora
 Poids : 0~
 
 @1025 = ~Une armure intermédiaire.~
+@102598 = ~Mailles d'Illumisfhityroc +4~
 @102599 = ~L'armure de cotte de mailles est constituée d'anneaux métalliques imbriqués les uns dans les autres. Elle est toujours portée par-dessus une couche de tissu matelassé ou de cuir souple pour empêcher le frottement et réduire l'impact des chocs. 
 
 Cette armure a été crée par un être extraplanaire. Même si elle a tout les traits d'une armure standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -395,6 +419,7 @@ Classe d'Armure :  1 (3 contre les armes contondantes, -1 contre les armes tranc
 Poids : 0~
 
 @1026 = ~Une armure lourde.~
+@102698 = ~Plates d'Illumisfhityroc +4~
 @102699 = ~L'armure de plates complète est la meilleure armure qu'un guerrier puisse acheter, aussi bien d'un point de vue esthétique que pratique. Les plaques parfaitement fixées et imbriquées les unes dans les autres sont inclinées de façon à détourner les flèches et les coups, et l'ensemble de la tunique est soigneusement orné de riches gravures et de détails en relief.
 
 Cette armure a été crée par un être extraplanaire. Même si elle a tout les traits d'une armure standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -405,7 +430,8 @@ Classe d'Armure : -3 (-7 contre les armes tranchantes, -6 contre les armes perfo
 
 Poids : 0~
 
-@1027 = ~des bracelets d'armure.~
+@1027 = ~Des bracelets de défense.~
+@102798 = ~Bracelet de défense d'Illumisfhityroc CA 1~
 @102799 = ~Les bracelets sont d'épaisses lanières de métal ou de cuir que l'on se noue ou s'attache autour de l'avant-bras.
 
 Ces bracelets ont été crées par un être extraplanaire. Même si  ils ont tout les traits de bracelets standards ils ne sont composés que d’énergie psychique amalgamée, ne pèsent rien et sont hautement magique. leur durée de vie est limitée.
@@ -417,6 +443,7 @@ Classe d'Armure : 1
 Poids : 0~
 
 @1028 = ~Un petit bouclier.~
+@102898 = ~Targe d'Illumisfhityroc +4~
 @102899 = ~La targe est un petit bouclier circulaire de bois ou de métal qui se fixe sur l'avant-bras. Elle peut être portée par un arbalétrier ou un archer sans que ce dernier soit pour autant gêné dans ses attaques avec son arme. 
 
 Ce bouclier a été crée par un être extraplanaire. Même si il a tout les traits d'un bouclier standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -430,6 +457,7 @@ Spécial : pas de protection contre les attaques perforantes ou les projectiles 
 Poids : 0~
 
 @1029 = ~Un grand bouclier~
+@102998 = ~Pavois d'Illumisfhityroc +4~
 @102999 = ~Le pavois est un bouclier massif en métal ou en bois couvrant le guerrier pratiquement du menton jusqu'aux doigts de pied. Il doit être bien attaché sur l'avant-bras et maintenu solidement. Naturellement, la main prise ne peut servir qu'à maintenir le pavois en place.
 
 Ce bouclier a été crée par un être extraplanaire. Même si il a tout les traits d'un bouclier standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -443,6 +471,7 @@ Spécial : +1 contre les armes à projectile
 Poids : 0~
 
 @1030 = ~Quelque chose qui protège contre les éléments.~
+@103098 = ~Anneau de protection contre les éléments d'Illumisfhityroc~
 @103099 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -453,6 +482,7 @@ Capacités d'équipement :
 Résistance aux éléments : +40 %~
 
 @1031 = ~Quelque chose qui protège contre les attaques mentales.~
+@103198 = ~Amulette de protection mentale d'Illumisfhityroc~
 @103199 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -463,6 +493,7 @@ Capacités d'équipement :
 Protection contre tous les charmes, la confusion, la peur, la domination, la perception extra-sensorielle, la détection d'alignements, la paralysie, l'étourdissement, les attaques psioniques, le sommeil et la débilité mentale.~
 
 @1032 = ~Quelque chose qui protège contre les attaques physiques.~
+@103298 = ~Anneau de protection physiques d'Illumisfhityroc~
 @103299 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -473,9 +504,10 @@ Capacités d'équipement :
 Résistance aux dégâts physiques : +25%~
 
 @1033 = ~Quelque chose qui protège contre la magie.~
-@103399 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+@103398 = ~Cape de protection contre la magie d'Illumisfhityroc~
+@103399 = ~La cape peut être fabriquée dans presque n'importe quel type de tissu et prendre n'importe quelle forme. Les capes les plus courantes sont faites d'un morceau de tissu circulaire troué en son centre pour passer la tête et d'un tissu drapé à partir du cou, attaché par une chaîne, une broche, une ficelle ou des épingles.
 
-Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
+Cette cape a été crée par un être extraplanaire. Même si elle a tout les traits d'une cape standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
 
 PARAMETRES :
 
@@ -483,6 +515,7 @@ Capacités d'équipement :
 Résistance à la magie : +25%~
 
 @1034 = ~Quelque chose qui protège contre les poisons.~
+@103498 = ~Fétiche anti poison d'Illumisfhityroc~
 @103499 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -493,6 +526,7 @@ Capacités d'équipement :
 Protection contre le poison et les maladies~
 
 @1035 = ~Quelque chose qui protège contre le plan négatif.~
+@103598 = ~Fétiche de protection contre la mort d'Illumisfhityroc~
 @103599 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -503,6 +537,7 @@ Capacités d'équipement :
 Protection contre la mort et le plan négatif~
 
 @1036 = ~Quelque chose qui protège contre les entraves.~
+@103698 = ~Anneau d'action libre d'Illumisfhityroc~
 @103699 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -513,6 +548,7 @@ Capacités d'équipement :
 Spécial :  Le porteur est immunisé à tout ce qui, magique ou non, pourrait réduire sa mobilité, y compris les effets de ralentissement.~
 
 @1037 = ~Quelque chose qui protège tout court.~
+@103798 = ~Anneau de protection d'Illumisfhityroc +3~
 @103799 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -524,6 +560,7 @@ Classe d'Armure : +3
 Jets de sauvegarde : +3~
 
 @1038 = ~Quelque chose qui guéri.~
+@103898 = ~Anneau de régénération d'Illumisfhityroc~
 @103899 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
 
 Ce bijou a été crée par un être extraplanaire. Même si il a tout les traits d'un bijou standard il n'est composé que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -534,6 +571,7 @@ Capacités d'équipement :
 Régénération de 1 point de vie toutes les 5 secondes~
 
 @1039 = ~Quelque chose qui rend très fort.~
+@103998 = ~Ceinture de force d'Illumisfhityroc~
 @103999 = ~Les ceinturons ressemblent généralement aux ceintures. Mais à la différence de ces dernières, ils ne servent pas à retenir les pantalons ou les salopettes, mais à porter bourses, fourreaux et choses de ce genre.
 
 Cette ceinture a été crée par un être extraplanaire. Même si elle a tout les traits d'une ceinture standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
@@ -546,6 +584,7 @@ Force : fixée à 19
 Poids : 0~
 
 @1040 = ~Quelque chose qui rend très adroit.~
+@104098 = ~Bracelet de dextérité d'Illumisfhityroc~
 @104099 = ~Les bracelets sont d'épaisses lanières de métal ou de cuir que l'on se noue ou s'attache autour de l'avant-bras.
 
 Ces bracelets ont été crées par un être extraplanaire. Même si  ils ont tout les traits de bracelets standards ils ne sont composés que d’énergie psychique amalgamée, ne pèsent rien et sont hautement magique. Leur durée de vie est limitée.
@@ -558,6 +597,7 @@ Dextérité : fixée à 19
 Poids : 0~
 
 @1041 = ~Quelque chose qui rend très rapide.~
+@104198 = ~Bottes de super rapidité d'Illumisfhityroc~
 @104199 = ~Les bottes sont généralement fabriquées artisanalement par des cordonniers. Les bottes ordinaires sont fabriquées à l'aide d'un moule, mais les bottes de qualité supérieure sont faites sur mesure.
 
 Ces bottes ont été crées par un être extraplanaire. Même si elles ont tout les traits de bottes standards elles ne sont composées que d’énergie psychique amalgamée, ne pèsent rien et sont hautement magique. Leur durée de vie est limitée.
@@ -571,6 +611,7 @@ Augmentent la vitesse de déplacement
 Poids : 0~
 
 @1042 = ~Quelque chose qui serve à tout le monde.~
+@104298 = ~Protection universelle d'Illumisfhityroc~
 @104299 = ~Cette petite pierre flotte autour de la tête de son possesseur quand on la place dans son inventaire. Ces pierres évidemment magiques ont des propriétés différentes en fonction de leur couleur.
 
 Cette pierre de Ioun a été crée par un être extraplanaire. Même si elle a tout les traits d'une pierre standard elle n'est composée que d’énergie psychique amalgamée, ne pèse rien et est hautement magique. Sa durée de vie est limitée.
