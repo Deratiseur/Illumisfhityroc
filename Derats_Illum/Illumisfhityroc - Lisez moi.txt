@@ -4,6 +4,50 @@ Sa capacité et de créer des objets puissants (+4) à durée limitée que vous 
 Dans BGEE/EET vous la trouverez à Bérégost, puis quand vous avez accès à la Porte de Baldur elle se déplace vers la place centrale de BG. Les objets crées durent 2 jours.
 Dans IWDEE vous la trouverez à Kuldahar. Les objets crées durent 5 jours.
 
+Liste des objets qu'Illumisfhityroc peut créer :
+Dague +4 (capacité de jet incluse)
+Épée courte +4
+Épée longue +4
+Cimeterre +4
+Katana +4
+Épée bâtarde +4
+Épée à deux mains +4
+Hache +4 (capacité de jet incluse)
+Marteau +4 (capacité de jet incluse)
+Gourdin +4
+Masse +4
+Fléau +4
+Lance +4
+Hallebarde +4
+Bâton +4
+Arbalète +4
+Arc long +4
+Arc court +4
+Fronde +4
+Carreau infini +3
+Flèche infinie +3
+Bille infinie +3
+Fléchette infinie +4
+Besantine +4
+Cottes de maille +4
+Armure de plates complète +4
+Bracelets d'armure CA 1
+Targe +4
+Grand bouclier +4
+Anneau de résistance aux éléments 40%
+Amulette de protection mentale
+Anneau de résistance physiques 25%
+Cape de résistance à la magie 25%
+Amulette de protection contre maladie et poison
+Scarabée de protection contre la mort et le plan négatif
+Anneau d'action libre (n’empêche pas hâte)
+Anneau de protection +3
+Anneau de régénération 1/5sec
+Ceinture de force 19
+Bracelets de dextérité 19
+Bottes de super rapidité
+Pierre ionique de CA +2
+
 
 Mise à jour :
 V2 : prix en xp passé de 1200xp à 1000 xps, correction pour EET où le nom interne des zones n'est pas le même.
