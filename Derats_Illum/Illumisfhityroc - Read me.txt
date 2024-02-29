@@ -4,6 +4,8 @@ Its ability to create powerful (+4), time-limited items that you'll need to "buy
 In BGEE/EET you'll find her in Beregost, then when you have access to Baldur's Gate she moves to the BG central place. Items created last 2 days.
 In IWDEE you'll find it in Kuldahar. Items created last 5 days.
 
+The rings, amulets and armors created by Illumisfhityroc are not magic items (they are psychic creations) and can therefore be worn in conjunction with real magic items.
+
 List of items Illumisfhityroc can create :
 Dagger +4 (including throwing ability)
 Short sword +4
@@ -45,9 +47,18 @@ Ring of protection +3
 Ring of regeneration 1/5sec
 Belt of strength 19
 Bracelets of dexterity 19
-Boots of super speed
+Boots of super speed(+2 movement points, double movement, +1/2 attack per round)
 ioun stone of AC +2
 
 
 Update:
-V2: price in xp reduced from 1200xp to 1000 xps, correction for EET where internal zone names are not the same.
+V2:
+Price in xp reduced from 1200xp to 1000 xps.
+Correction for EET where internal zone names are not the same.
+
+v3:
++3 item icons for created items.
+Fixed non-functional dialog under EET.
+Added item list to the read_me.
+Throw" and "melee" added to mixed weapons.
+The cloak of magic resistance no longer has the text of a ring.

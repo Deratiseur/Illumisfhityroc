@@ -1,6 +1,6 @@
 BACKUP ~Derats_Illum/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v2~
+VERSION ~v3~
 
 AUTO_TRA ~Derats_Illum/Languages/%s~ /////%s~
 
@@ -27,56 +27,58 @@ END
 
 ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 EXTEND_TOP ~AR2100.BCS~	~Derats_Illum/Scripts/pxlu2100.baf~
-COPY_EXISTING	~pxlu01.spl~			~override/pxlu01.spl~	WRITE_BYTE 0xd8 5
+COPY_EXISTING	~pxlu01.spl~				~override~	WRITE_BYTE 0xd8 5
 END
 
 COMPILE ~Derats_Illum/Scripts/pxluillu.baf~
 COMPILE ~Derats_Illum/pxluillu.d~
 
-
-COPY	~Derats_Illum/pxluillu.cre~			~override~	SAY NAME1 @0	SAY NAME2 @0
-COPY	~Derats_Illum/Objets/pxludagg.itm~	~override~	SAY	DESC @10199
-COPY	~Derats_Illum/Objets/pxlucour.itm~	~override~	SAY	DESC @10299
-COPY	~Derats_Illum/Objets/pxlulong.itm~	~override~	SAY	DESC @10399
-COPY	~Derats_Illum/Objets/pxlucime.itm~	~override~	SAY	DESC @10499
-COPY	~Derats_Illum/Objets/pxlukata.itm~	~override~	SAY	DESC @10599
-COPY	~Derats_Illum/Objets/pxlubata.itm~	~override~	SAY	DESC @10699
-COPY	~Derats_Illum/Objets/pxlu2mai.itm~	~override~	SAY	DESC @10799
-COPY	~Derats_Illum/Objets/pxluhach.itm~	~override~	SAY	DESC @10899
-COPY	~Derats_Illum/Objets/pxlumart.itm~	~override~	SAY	DESC @10999
-COPY	~Derats_Illum/Objets/pxlugour.itm~	~override~	SAY	DESC @101099
-COPY	~Derats_Illum/Objets/pxlumass.itm~	~override~	SAY	DESC @101199
-COPY	~Derats_Illum/Objets/pxluflea.itm~	~override~	SAY	DESC @101299
-COPY	~Derats_Illum/Objets/pxlulanc.itm~	~override~	SAY	DESC @101399
-COPY	~Derats_Illum/Objets/pxluhall.itm~	~override~	SAY	DESC @101499
-COPY	~Derats_Illum/Objets/pxlubato.itm~	~override~	SAY	DESC @101599
-COPY	~Derats_Illum/Objets/pxluarba.itm~	~override~	SAY	DESC @101699
-COPY	~Derats_Illum/Objets/pxluarcl.itm~	~override~	SAY	DESC @101799
-COPY	~Derats_Illum/Objets/pxluarcc.itm~	~override~	SAY	DESC @101899
-COPY	~Derats_Illum/Objets/pxlufron.itm~	~override~	SAY	DESC @101999
-COPY	~Derats_Illum/Objets/pxlucarr.itm~	~override~	SAY	DESC @102099
-COPY	~Derats_Illum/Objets/pxluflec.itm~	~override~	SAY	DESC @102199
-COPY	~Derats_Illum/Objets/pxlubill.itm~	~override~	SAY	DESC @102299
-COPY	~Derats_Illum/Objets/pxluchet.itm~	~override~	SAY	DESC @102399
-COPY	~Derats_Illum/Objets/pxlubesa.itm~	~override~	SAY	DESC @102499
-COPY	~Derats_Illum/Objets/pxluchai.itm~	~override~	SAY	DESC @102599
-COPY	~Derats_Illum/Objets/pxluplat.itm~	~override~	SAY	DESC @102699
-COPY	~Derats_Illum/Objets/pxluarma.itm~	~override~	SAY	DESC @102799
-COPY	~Derats_Illum/Objets/pxlutarg.itm~	~override~	SAY	DESC @102899
-COPY	~Derats_Illum/Objets/pxlupavo.itm~	~override~	SAY	DESC @102999
-COPY	~Derats_Illum/Objets/pxluelem.itm~	~override~	SAY	DESC @103099
-COPY	~Derats_Illum/Objets/pxlument.itm~	~override~	SAY	DESC @103199
-COPY	~Derats_Illum/Objets/pxluphys.itm~	~override~	SAY	DESC @103299
-COPY	~Derats_Illum/Objets/pxlumagi.itm~	~override~	SAY	DESC @103399
-COPY	~Derats_Illum/Objets/pxlupois.itm~	~override~	SAY	DESC @103499
-COPY	~Derats_Illum/Objets/pxlumort.itm~	~override~	SAY	DESC @103599
-COPY	~Derats_Illum/Objets/pxlulibe.itm~	~override~	SAY	DESC @103699
-COPY	~Derats_Illum/Objets/pxluprot.itm~	~override~	SAY	DESC @103799
-COPY	~Derats_Illum/Objets/pxlurege.itm~	~override~	SAY	DESC @103899
-COPY	~Derats_Illum/Objets/pxluforc.itm~	~override~	SAY	DESC @103999
-COPY	~Derats_Illum/Objets/pxludext.itm~	~override~	SAY	DESC @104099
-COPY	~Derats_Illum/Objets/pxlurapi.itm~	~override~	SAY	DESC @104199
-COPY	~Derats_Illum/Objets/pxluioni.itm~	~override~	SAY	DESC @104299
+COPY	~Derats_Illum/pxluillu.cre~			~override~	SAY NAME2 @0	SAY NAME2 @0
+COPY	~Derats_Illum/Objets/pxludagg.itm~	~override~	SAY NAME2 @10198	SAY DESC @10199
+APPEND ~tooltip.2da~ ~pxludagg     15529      15527      -1 ~
+COPY	~Derats_Illum/Objets/pxlucour.itm~	~override~	SAY NAME2 @10298	SAY DESC @10299
+COPY	~Derats_Illum/Objets/pxlulong.itm~	~override~	SAY NAME2 @10398	SAY DESC @10399
+COPY	~Derats_Illum/Objets/pxlucime.itm~	~override~	SAY NAME2 @10498	SAY DESC @10499
+COPY	~Derats_Illum/Objets/pxlukata.itm~	~override~	SAY NAME2 @10598	SAY DESC @10599
+COPY	~Derats_Illum/Objets/pxlubata.itm~	~override~	SAY NAME2 @10698	SAY DESC @10699
+COPY	~Derats_Illum/Objets/pxlu2mai.itm~	~override~	SAY NAME2 @10798	SAY DESC @10799
+COPY	~Derats_Illum/Objets/pxluhach.itm~	~override~	SAY NAME2 @10898	SAY DESC @10899
+APPEND ~tooltip.2da~ ~pxluhach     15529      15527      -1 ~
+COPY	~Derats_Illum/Objets/pxlumart.itm~	~override~	SAY NAME2 @10998	SAY DESC @10999
+APPEND ~tooltip.2da~ ~pxlumart     15529      15527      -1 ~
+COPY	~Derats_Illum/Objets/pxlugour.itm~	~override~	SAY NAME2 @101098	SAY DESC @101099
+COPY	~Derats_Illum/Objets/pxlumass.itm~	~override~	SAY NAME2 @101198	SAY DESC @101199
+COPY	~Derats_Illum/Objets/pxluflea.itm~	~override~	SAY NAME2 @101298	SAY DESC @101299
+COPY	~Derats_Illum/Objets/pxlulanc.itm~	~override~	SAY NAME2 @101398	SAY DESC @101399
+COPY	~Derats_Illum/Objets/pxluhall.itm~	~override~	SAY NAME2 @101498	SAY DESC @101499
+COPY	~Derats_Illum/Objets/pxlubato.itm~	~override~	SAY NAME2 @101598	SAY DESC @101599
+COPY	~Derats_Illum/Objets/pxluarba.itm~	~override~	SAY NAME2 @101698	SAY DESC @101699
+COPY	~Derats_Illum/Objets/pxluarcl.itm~	~override~	SAY NAME2 @101798	SAY DESC @101799
+COPY	~Derats_Illum/Objets/pxluarcc.itm~	~override~	SAY NAME2 @101798	SAY DESC @101899
+COPY	~Derats_Illum/Objets/pxlufron.itm~	~override~	SAY NAME2 @101998	SAY DESC @101999
+COPY	~Derats_Illum/Objets/pxlucarr.itm~	~override~	SAY NAME2 @102098	SAY DESC @102099
+COPY	~Derats_Illum/Objets/pxluflec.itm~	~override~	SAY NAME2 @102198	SAY DESC @102199
+COPY	~Derats_Illum/Objets/pxlubill.itm~	~override~	SAY NAME2 @102298	SAY DESC @102299
+COPY	~Derats_Illum/Objets/pxluchet.itm~	~override~	SAY NAME2 @102398	SAY DESC @102399
+COPY	~Derats_Illum/Objets/pxlubesa.itm~	~override~	SAY NAME2 @102498	SAY DESC @102499
+COPY	~Derats_Illum/Objets/pxluchai.itm~	~override~	SAY NAME2 @102598	SAY DESC @102599
+COPY	~Derats_Illum/Objets/pxluplat.itm~	~override~	SAY NAME2 @102698	SAY DESC @102699
+COPY	~Derats_Illum/Objets/pxluarma.itm~	~override~	SAY NAME2 @102798	SAY DESC @102799
+COPY	~Derats_Illum/Objets/pxlutarg.itm~	~override~	SAY NAME2 @102898	SAY DESC @102899
+COPY	~Derats_Illum/Objets/pxlupavo.itm~	~override~	SAY NAME2 @102998	SAY DESC @102999
+COPY	~Derats_Illum/Objets/pxluelem.itm~	~override~	SAY NAME2 @103098	SAY DESC @103099
+COPY	~Derats_Illum/Objets/pxlument.itm~	~override~	SAY NAME2 @103198	SAY DESC @103199
+COPY	~Derats_Illum/Objets/pxluphys.itm~	~override~	SAY NAME2 @103298	SAY DESC @103299
+COPY	~Derats_Illum/Objets/pxlumagi.itm~	~override~	SAY NAME2 @103398	SAY DESC @103399
+COPY	~Derats_Illum/Objets/pxlupois.itm~	~override~	SAY NAME2 @103498	SAY DESC @103499
+COPY	~Derats_Illum/Objets/pxlumort.itm~	~override~	SAY NAME2 @103598	SAY DESC @103599
+COPY	~Derats_Illum/Objets/pxlulibe.itm~	~override~	SAY NAME2 @103698	SAY DESC @103699
+COPY	~Derats_Illum/Objets/pxluprot.itm~	~override~	SAY NAME2 @103798	SAY DESC @103799
+COPY	~Derats_Illum/Objets/pxlurege.itm~	~override~	SAY NAME2 @103898	SAY DESC @103899
+COPY	~Derats_Illum/Objets/pxluforc.itm~	~override~	SAY NAME2 @103998	SAY DESC @103999
+COPY	~Derats_Illum/Objets/pxludext.itm~	~override~	SAY NAME2 @104098	SAY DESC @104099
+COPY	~Derats_Illum/Objets/pxlurapi.itm~	~override~	SAY NAME2 @104198	SAY DESC @104199
+COPY	~Derats_Illum/Objets/pxluioni.itm~	~override~	SAY NAME2 @104298	SAY DESC @104299
 COPY_EXISTING	~pxlu01.spl~	~override/pxlu02.spl~	WRITE_ASCII 0xde ~pxlucour~ #8
 COPY_EXISTING	~pxlu01.spl~	~override/pxlu03.spl~	WRITE_ASCII 0xde ~pxlulong~ #8
 COPY_EXISTING	~pxlu01.spl~	~override/pxlu04.spl~	WRITE_ASCII 0xde ~pxlucime~ #8
@@ -118,4 +120,4 @@ COPY_EXISTING	~pxlu01.spl~	~override/pxlu39.spl~	WRITE_ASCII 0xde ~pxluforc~ #8
 COPY_EXISTING	~pxlu01.spl~	~override/pxlu40.spl~	WRITE_ASCII 0xde ~pxludext~ #8
 COPY_EXISTING	~pxlu01.spl~	~override/pxlu41.spl~	WRITE_ASCII 0xde ~pxlurapi~ #8
 COPY_EXISTING	~pxlu01.spl~	~override/pxlu42.spl~	WRITE_ASCII 0xde ~pxluioni~ #8
-COPY_EXISTING	~amcall.vvc~				~override/pxfycalv.vvc~	WRITE_ASCII 0x8 ~pxfycal2~ #8	WRITE_ASCII 0x78 ~pxfycalo~ #8
+COPY_EXISTING	~amcall.vvc~	~override/pxfycalv.vvc~	WRITE_ASCII 0x8 ~pxfycal2~ #8	WRITE_ASCII 0x78 ~pxfycalo~ #8
