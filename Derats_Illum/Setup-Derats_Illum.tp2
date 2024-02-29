@@ -27,7 +27,7 @@ END
 
 ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 EXTEND_TOP ~AR2100.BCS~	~Derats_Illum/Scripts/pxlu2100.baf~
-COPY_EXISTING	~pxlu01.spl~			~override/pxlu02.spl~	WRITE_BYTE 0xd8 5
+COPY_EXISTING	~pxlu01.spl~			~override/pxlu01.spl~	WRITE_BYTE 0xd8 5
 END
 
 COMPILE ~Derats_Illum/Scripts/pxluillu.baf~
