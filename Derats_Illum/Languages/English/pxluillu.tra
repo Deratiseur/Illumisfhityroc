@@ -12,6 +12,7 @@
 @11 = ~I don't need your services. Goodbye~
 @12 = ~I have so few memories left... I prefer to keep them. Goodbye~
 @101 = ~A dagger.~
+@10198 = ~Illumisfhityroc's dagger +4~
 @10199 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -30,6 +31,7 @@ Type: One-handed
 Weight: 0~
 
 @102 = ~A short sword.~
+@10298 = ~Illumisfhityroc's short sword +4~
 @10299 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger. The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -45,6 +47,7 @@ Type: One-handed
 Weight: 0~
 
 @103 = ~A long sword.~
+@10398 = ~Illumisfhityroc's long sword +4~
 @10399 = ~These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -62,6 +65,7 @@ Type: One-handed
 Weight: 0~
 
 @104 = ~A scimitar.~
+@10498 = ~Illumisfhityroc's scimitar +4~
 @10499 = ~The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of FaerÃ»n. Whereas the saber was intended chiefly for horsemen, mainly due to its versatility, the scimitar has a heavier oriental influence. The "shamshir," as it was originally called, is larger, more highly curved, and tapered to an elongated, sharp point. This makes the weapon slightly slower but more effective and deadly in combat.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -77,6 +81,7 @@ Type: One-handed
 Weight: 0~
 
 @105 = ~A katana.~
+@10598 = ~Illumisfhityroc's katana +4~
 @10599 = ~The katana is a single-edged, slightly curved sword that ends with a chisel point. The katana is perhaps one of the finest swords ever made, the steps to its creation a long and secret process that is more art form than anything else. This blade is an important facet of Kara-Turan culture. To touch or wield a samurai's katana is to insult the samurai and to incite his wrath. For a gaijin, or foreigner, to own such a blade is a rare occurrence. Either the gaijin is a greatly honored friend of an important minister, or the gaijin has murdered a samurai.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -92,6 +97,7 @@ Type: One-handed
 Weight: 5~
 
 @106 = ~A bastard sword.~
+@10698 = ~Illumisfhityroc's bastard sword +4~
 @10699 = ~Also known as the hand-and-a-half sword, the bastard sword derives its name from the fact that it is halfway between the two-handed sword and the long sword. The bastard sword has a double-edged blade and a long grip, which can accommodate both hands if preferred. The overall length of the bastard sword ranges between four feet and four feet ten inches.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -107,6 +113,7 @@ Type: One-handed
 Weight: 0~
 
 @107 = ~A two-handed sword.~
+@10798 = ~Illumisfhityroc's two-handed sword +4~
 @10799 = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -122,6 +129,7 @@ Type: Two-handed
 Weight: 0~
 
 @108 = ~A battle axe.~
+@10898 = ~Illumisfhityroc's battle axe +4~
 @10899 = ~The most common version of the battle axe is a stout pole about four feet in length with a single-edged, trumpet-shaped blade mounted on one end. Battle axes are also called broad axes. 
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -135,13 +143,14 @@ THAC0: +4
 Damage: 1d6+4
 Damage type (melee): slashing
 Damage type (thrown): missile
-Speed Factor: 0
+Speed Factor: 3
 Proficiency Type: Axe
 Type: One-handed
 
 Weight: 0~
 
 @109 = ~A war hammer.~
+@10998 = ~Illumisfhityroc's war hammer+4~
 @10999 = ~Mounted knights cannot effectively use long pole weapons while on horseback and, as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two examples of this, the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. (Rondels are small disks of metal, often shaped into decorative designs.) The shaft is about eighteen inches long.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -165,6 +174,7 @@ Type: One-handed
 Weight: 0~
 
 @1010 = ~A club.~
+@101098 = ~Illumisfhityroc's club +4~
 @101099 = ~Most clubs are stout, hardwood sticks, narrow at the grip and wider at the end. This simple weapon has been used since people first began using tools. Anyone can find a good stout piece of wood and swing it; hence the club's widespread use.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -180,6 +190,7 @@ Type: One-handed
 Weight: 0~
 
 @1011 = ~A mace.~
+@101198 = ~Illumisfhityroc's mace +4~
 @101199 = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with a stone or iron head mounted on the end. The head design varies: Some are spiked, others flanged, and still others have pyramidal knobs.
 
 
@@ -196,6 +207,7 @@ Type: One-handed
 Weight: 0~
 
 @1012 = ~A flail.~
+@101298 = ~Illumisfhityroc's flail +4~
 @101299 = ~The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon was originally used as a tool for threshing grain.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -211,6 +223,7 @@ Type: One-handed
 Weight: 0~
 
 @1013 = ~A spear.~
+@101398 = ~Illumisfhityroc's spear +4~
 @101399 = ~One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When the civilized races mastered metals, spearheads were made from iron and steel. Having reached this end, weaponsmiths began experimenting with different types of spearheads, thus leading to the development of certain polearm types.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -226,6 +239,7 @@ Type: Two-handed
 Weight: 0~
 
 @1014 = ~A halberd.~
+@101498 = ~Illumisfhityroc's halberd +4~
 @101499 = ~By far the oldest and most often used polearm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe.
 
 
@@ -242,6 +256,7 @@ Type: Two-handed
 Weight: 0~
 
 @1015 = ~A quarterstaff.~
+@101598 = ~Illumisfhityroc's quarterstaff +4~
 @101599 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -257,6 +272,7 @@ Type: Two-handed
 Weight: 0~
 
 @1016 = ~A crossbow.~
+@101698 = ~Illumisfhityroc's crossbow +4~
 @101699 = ~A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt). 
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -270,6 +286,7 @@ Type: Two-handed
 Weight: 0~
 
 @1017 = ~A longbow.~
+@101798 = ~Illumisfhityroc's bow +4~
 @101799 = ~Composite bows are longbows or shortbows whose staves are made from more than one type of material. This gives greater flexibility and makes arrows fired from this bow deliver more damage. These were developed after the normal longbow.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -299,6 +316,7 @@ Type: Two-handed
 Weight: 0~
 
 @1019 = ~A sling.~
+@101998 = ~Illumisfhityroc's sling +4~
 @101999 = ~Slings have existed since the beginning of recorded history. The basic sling consists of a leather or fabric strap with a pouch for holding the missile. The weapon is held by both ends of the strap and twirled around the wielder's head. When top speed is attained, the missile is launched by releasing one of the strap's ends.
 
 This weapon was created by an extraplanar being. Although it has all the features of standard weapon, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -314,6 +332,7 @@ Type: One-handed
 Weight: 0~
 
 @1020 = ~Some bolts.~
+@102098 = ~Illumisfhityroc's infinite bolt +3~
 @102099 = ~Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size.
 
 This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -329,6 +348,7 @@ Launcher: Crossbow
 Weight: 0~
 
 @1021 = ~Some arrows.~
+@102198 = ~Illumisfhityroc's infinite arrow +3~
 @102199 = ~The flight arrow, as its name implies, is built for distance. These are lightweight arrows and are often used for hunting. Most of these arrows are made of ash or birch and are thirty to forty inches long.
 
 
@@ -345,6 +365,7 @@ Launcher: Bow
 Weight: 0~
 
 @1022 = ~Some bullets~
+@102298 = ~Illumisfhityroc's infinite bullet +3~
 @102299 = ~A bullet is simply a rounded, well-balanced stone.
 
 This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -360,6 +381,7 @@ Launcher: Sling
 Weight: 0~
 
 @1023 = ~Some darts.~
+@102398 = ~Illumisfhityroc's infinite dart +4~
 @102399 = ~The dart is a small, easily concealable missile weapon that is thrown rather than fired from a bow or other launcher. 
 
 This projectile was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -378,6 +400,7 @@ Type: One-handed
 Weight: 0~
 
 @1024 = ~A light armor.~
+@102498 = ~Illumisfhityroc's studded leather +4~
 @102499 = ~Studded leather armor has little in common with normal leather armor. Instead of a hardened shell, studded leather offers hundreds of metal rivets affixed to a supple backing. The numerous studs form a flexible coat of metal that helps to turn aside slashing and cutting attacks, while the leather is little more than a means of securing the rivets in place. 
 
 This armor was created by an extraplanar being. Although it has all the features of standard armor, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -393,6 +416,7 @@ Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
 Weight: 0~
 
 @1025 = ~A medium armor.~
+@102598 = ~Illumisfhityroc's chainmail +4~
 @102599 = ~Chain mail is made of interlocking metal rings. It is always worn over a layer of padded fabric or soft leather to prevent chafing and lessen the impact of blows. 
 
 This armor was created by an extraplanar being. Although it has all the features of standard armor, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -408,6 +432,7 @@ Armor Class: 1 (-1 vs. slashing, 3 vs. crushing)
 Weight: 0~
 
 @1026 = ~A heavy armor.~
+@102698 = ~Illumisfhityroc's full plate +4~
 @102699 = ~Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted, interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail.
 
 This armor was created by an extraplanar being. Although it has all the features of standard armor, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -423,6 +448,7 @@ Armor Class: -3 (-7 vs. slashing, -6 vs. piercing and missile)
 Weight: 0~
 
 @1027 = ~Some bracers of defense.~
+@102798 = ~Illumisfhityroc's bracers of defense AC 1~
 @102799 = ~Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm.
 
 These bracelets were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
@@ -435,6 +461,7 @@ Armor Class: 1
 Weight: 2~
 
 @1028 = ~A small shield.~
+@102898 = ~Illumisfhityroc's buckler +4~
 @102899 = ~A buckler, also known as a target shield, is a small round shield of wood or metal that fastens to the forearm. Because of its size, it is light and can be worn with very little restriction to movement.
 
 This shield was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -446,6 +473,7 @@ No protection against missile and piercing attacks
 Weight: 0~
 
 @1029 = ~A large shield~
+@102998 = ~Illumisfhityroc's large shield +4~
 @102999 = ~The body shield, also known as the kite or tower shield, is a massive metal or wooden shield reaching nearly from the chin to the toe of the user. It must be firmly fastened to the forearm, and the shield hand must firmly grip it at all times. Naturally, this precludes use of the shield hand for anything but holding the body shield in place.
 
 This shield was created by an extraplanar being. Although it has all the features of a standard projectile, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. Its lifespan is limited.
@@ -458,6 +486,7 @@ Armor Class: +5, an extra +1 vs. missile attacks
 Weight: 0~
 
 @1030 = ~Something that protects against the elements.~
+@103098 = ~Illumisfhityroc's ring of elemental resistance.~
 @103099 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -467,6 +496,7 @@ STATISTICS:
 Elemental resistances: +40%~
 
 @1031 = ~Something that protects against mental attacks.~
+@103198 = ~Illumisfhityroc's amulet of mental protection.~
 @103199 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -476,6 +506,7 @@ STATISTICS:
 Immunity to charm, confusion, fear, domination, ESP, Detect Alignment, hold, stun, psionics, sleep, and feeblemind.~
 
 @1032 = ~Something that protects against physical attacks.~
+@103298 = ~Illumisfhityroc's ring of physical resistance.~
 @103299 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -485,6 +516,7 @@ STATISTICS:
 Physical damage resistance: +25%~
 
 @1033 = ~Something that protects against magic.~
+@103398 = ~Illumisfhityroc's cloak of magic resistance.~
 @103399 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -494,6 +526,7 @@ STATISTICS:
 Magic resistance: +25%~
 
 @1034 = ~Something that protects against poisons.~
+@103498 = ~Illumisfhityroc's amulet of poison immunity.~
 @103499 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -503,6 +536,7 @@ STATISTICS:
 Protection against poison and disease~
 
 @1035 = ~Something that protects against negative energy.~
+@103598 = ~Illumisfhityroc's amulet of death ward.~
 @103599 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -512,6 +546,7 @@ STATISTICS:
 Protection against death magic and the Negative Plane~
 
 @1036 = ~Something that protects against hindrance.~
+@103698 = ~Illumisfhityroc's ring of free action.~
 @103699 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -522,6 +557,7 @@ Equipped abilities:
 The wearer is immune to everything, magical and otherwise, that affects mobility in bad way. This includes Slow spells.~
 
 @1037 = ~Something that just protects.~
+@103798 = ~Illumisfhityroc's ring of protection +3.~
 @103799 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -533,6 +569,7 @@ Armor Class: +3
 Saving Throws: +3~
 
 @1038 = ~Something that heals.~
+@103898 = ~Illumisfhityroc's ring of regeneration.~
 @103899 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
 
 This piece of jewelry was created by an extraplanar being. Although it has all the features of a standard jewel, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -543,6 +580,7 @@ Equipped abilities:
 Regenerate 1 Hit Point per 5 seconds~
 
 @1039 = ~Something that makes me very strong.~
+@103998 = ~Illumisfhityroc's belt of strengh.~
 @103999 = ~Girdles are generally similar to belts. Unlike belts, girdles are not used to hold up pants and dungarees, but to carry pouches, scabbards, and the like. 
 
 This belt was created by an extraplanar being. Although it has all the features of a standard belt, it is composed of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
@@ -555,6 +593,7 @@ Strength: 19
 Weight: 0~
 
 @1040 = ~Something that makes me very dexterous.~
+@104098 = ~Illumisfhityroc's bracers of dexterity.~
 @104099 = ~Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm.
 
 These bracelets were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
@@ -567,6 +606,7 @@ Dexterity: 19
 Weight: 0~
 
 @1041 = ~Something that makes me very fast.~
+@104198 = ~Illumisfhityroc's boots of super-speed.~
 @104199 = ~Boots are normally handmade by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual.
 
 These boots were created by an extraplanar being. Although they have all the features of standard bracelets, they are composed solely of amalgamated psychic energy, weigh nothing and are highly magical. Their lifespan is one day.
@@ -582,6 +622,7 @@ Increases movement speed
 Weight: 0~
 
 @1042 = ~Something that's useful to everyone.~
+@104298 = ~Illumisfhityroc's universal protection.~
 @104299 = ~This is a small stone that floats in an orbit around the owner's head. Simply equip the stone to set it in its orbit. These obviously magical stones have different properties depending on their color.
 
 This Ioun stone was created by an extraplanar being. Although it has all the features of a standard stone, it is composed solely of amalgamated psychic energy, weighs nothing and is highly magical. It has a limited lifespan.
