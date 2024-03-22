@@ -1,6 +1,6 @@
 IF
-	Global("Px_illum","GLOBAL",1)
-	AreaCheck("AR0700")
+	GlobalLT("Px_illum","GLOBAL",2)
+	AreaCheck("%CentralBaldursGate%")
 THEN
 	RESPONSE #100
 		SetGlobal("Px_illum","GLOBAL",2)

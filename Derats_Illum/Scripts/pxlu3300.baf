@@ -1,6 +1,6 @@
 IF
 	Global("Px_illum","GLOBAL",0)
-	AreaCheck("AR3300")
+	AreaCheck("%Beregost%")
 THEN
 	RESPONSE #100
 		SetGlobal("Px_illum","GLOBAL",1)

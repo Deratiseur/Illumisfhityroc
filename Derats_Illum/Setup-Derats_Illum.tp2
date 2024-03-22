@@ -2,6 +2,22 @@ BACKUP ~Derats_Illum/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
 VERSION ~v3~
 
+ALWAYS
+
+ACTION_IF GAME_IS ~BGEE~ THEN BEGIN
+
+	INCLUDE ~%MOD_FOLDER%/lib/g3_bgee_cpmvars.tpa~
+	
+END
+
+ACTION_IF GAME_IS ~EET~ THEN BEGIN
+
+	INCLUDE ~eet/other/cpmvars/eet_cpmvars.tpa~
+	  
+END
+
+END
+
 AUTO_TRA ~Derats_Illum/Languages/%s~ /////%s~
 
 LANGUAGE ~Francais~	~French~
@@ -14,16 +30,10 @@ BEGIN @0
 REQUIRE_PREDICATE GAME_IS ~BGEE EET IWDEE~ @0009
 
 COPY	~Derats_Illum/Copy~						~override~
-
-ACTION_IF GAME_IS ~BGEE~ THEN BEGIN
-EXTEND_TOP ~AR3300.BCS~	~Derats_Illum/Scripts/pxlu3300.baf~
-EXTEND_TOP ~AR0700.BCS~	~Derats_Illum/Scripts/pxlu0700.baf~
-END
-
-ACTION_IF GAME_IS ~EET~ THEN BEGIN
-EXTEND_TOP ~BG3300.BCS~	~Derats_Illum/EET/pxbg3300.baf~
-EXTEND_TOP ~BG0700.BCS~	~Derats_Illum/EET/pxbg0700.baf~
-END
+EXTEND_TOP ~%Beregost_BCS%.BCS~	~Derats_Illum/Scripts/pxlu3300.baf~
+    EVALUATE_BUFFER
+EXTEND_TOP ~%CentralBaldursGate_BCS%.BCS~	~Derats_Illum/Scripts/pxlu0700.baf~
+    EVALUATE_BUFFER
 
 ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 EXTEND_TOP ~AR2100.BCS~	~Derats_Illum/Scripts/pxlu2100.baf~
@@ -31,9 +41,10 @@ COPY_EXISTING	~pxlu01.spl~				~override~	WRITE_BYTE 0xd8 5
 END
 
 COMPILE ~Derats_Illum/Scripts/pxluillu.baf~
-COMPILE ~Derats_Illum/pxluillu.d~
+    EVALUATE_BUFFER
+COMPILE EVALUATE_BUFFER ~Derats_Illum/pxluillu.d~
 
-COPY	~Derats_Illum/pxluillu.cre~			~override~	SAY NAME2 @0	SAY NAME2 @0
+COPY	~Derats_Illum/pxluillu.cre~			~override~	SAY NAME1 @0	SAY NAME2 @0
 COPY	~Derats_Illum/Objets/pxludagg.itm~	~override~	SAY NAME2 @10198	SAY DESC @10199
 APPEND ~tooltip.2da~ ~pxludagg     15529      15527      -1 ~
 COPY	~Derats_Illum/Objets/pxlucour.itm~	~override~	SAY NAME2 @10298	SAY DESC @10299
