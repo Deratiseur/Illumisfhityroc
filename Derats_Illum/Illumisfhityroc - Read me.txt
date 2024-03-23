@@ -62,3 +62,6 @@ Fixed non-functional dialog under EET.
 Added item list to the read_me.
 Throw" and "melee" added to mixed weapons.
 The cloak of magic resistance no longer has the text of a ring.
+
+v4 :
+Fixes by JohnBob.
