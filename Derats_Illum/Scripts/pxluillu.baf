@@ -1,5 +1,5 @@
 IF
-	AreaCheck("AR3300")
+	AreaCheck("%Beregost%")
 	Global("Px_illum","GLOBAL",2)
 THEN
 	RESPONSE #100
