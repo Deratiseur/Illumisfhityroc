@@ -62,3 +62,6 @@ Correction du dialogue non fonctionnel sous EET.
 Ajout de la liste d'objet dans le lisez_moi.
 Ajout de "jeté" et "mêlée" aux armes mixtes.
 La cape de protection contre la magie n'a plus le texte d'un anneau
+
+v4 :
+Corrections par JohnBob.
