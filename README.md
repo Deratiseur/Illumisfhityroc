@@ -11,7 +11,7 @@
 ## Description:
 -------------
 
-Une extra-terrestre qui loue des objets temporaires pour 200 pos et 1000 xps.
+Une extra-terrestre qui loue des objets temporaires +4 pour 200 pos et 1000 xps.
 
 Vous la trouverez :
 
@@ -22,7 +22,7 @@ Vous la trouverez :
 
 -------------
 
-An alien who rents temporary items for 200 gp and 1000 xps.
+An alien who rents temporary items +4 for 200 gp and 1000 xps.
 
 You'll find her :
 
