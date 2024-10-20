@@ -22,7 +22,7 @@ Vous la trouverez :
 
 -------------
 
-An alien who rents temporary items for 200 pos and 1000 xps.
+An alien who rents temporary items for 200 gp and 1000 xps.
 
 You'll find her :
 
