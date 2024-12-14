@@ -1,8 +1,8 @@
 Illumisfhityroc est une extérieure que vous ne pouvez pas rater quand vous la verrez, elle est vraiment très reconnaissable.
 Sa capacité et de créer des objets puissants (+4) à durée limitée que vous devrez "acheter" avec 1000xp et 200 pièces d'or.
 
-Dans BGEE/EET vous la trouverez à Bérégost, puis quand vous avez accès à la Porte de Baldur elle se déplace vers la place centrale de BG. Les objets crées durent 2 jours.
-Dans IWDEE vous la trouverez à Kuldahar. Les objets crées durent 5 jours.
+Dans BGEE/EET vous la trouverez à Bérégost, puis quand vous avez accès à la Porte de Baldur elle se déplace vers la place centrale de BG. Les objets crées durent 4 jours.
+Dans IWDEE vous la trouverez à Kuldahar. Les objets crées durent une semaine.
 
 Les anneaux, amulettes et armures crées par Illumisfhityroc ne sont pas des objets magiques (ce sont des créations psychiques) et peuvent donc être portée conjointement avec de vrais objets magiques.
 
@@ -64,4 +64,8 @@ Ajout de "jeté" et "mêlée" aux armes mixtes.
 La cape de protection contre la magie n'a plus le texte d'un anneau
 
 v4 :
-Corrections par JohnBob.
+Dans EET Illumisfhityroc ne se déplaçait toujours pas. JohnBob a prit les choses en main et à corriger tout ça avec un patch solide.
+
+v4.1 :
+Changement de la durée : 4 jours pour BG1, une semaine pour IWDEE.
+Le coût était de 1200 xp, malgré le changement de la v2 (??)

@@ -1,6 +1,6 @@
 BACKUP ~Derats_Illum/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v3~
+VERSION ~v4.1~
 
 ALWAYS
 
@@ -37,7 +37,7 @@ EXTEND_TOP ~%CentralBaldursGate_BCS%.BCS~	~Derats_Illum/Scripts/pxlu0700.baf~
 
 ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
 EXTEND_TOP ~AR2100.BCS~	~Derats_Illum/Scripts/pxlu2100.baf~
-COPY_EXISTING	~pxlu01.spl~				~override~	WRITE_BYTE 0xd8 5
+COPY_EXISTING	~pxlu01.spl~				~override~	WRITE_BYTE 0xd8 7
 END
 
 COMPILE ~Derats_Illum/Scripts/pxluillu.baf~
