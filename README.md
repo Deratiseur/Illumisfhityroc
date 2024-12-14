@@ -16,9 +16,9 @@ Une extra-terrestre qui loue des objets temporaires +4 pour 200 pos et 1000 xps.
 
 Vous la trouverez :
 
-- BGEE : à Bérégost et plus tard sur la Place centrale de la Porte de Baldur. Les objets durent 2 jours.
+- BGEE : à Bérégost et plus tard sur la Place centrale de la Porte de Baldur. Les objets durent 4 jours.
    
-- IWDEE : à Kuldahar regardant le vide. Les objets durent 5 jours.
+- IWDEE : à Kuldahar regardant le vide. Les objets durent une semaine.
   
 
 -------------
@@ -27,6 +27,6 @@ An alien who rents temporary items +4 for 200 gp and 1000 xps.
 
 You'll find her :
 
-- BGEE: in Beregost and later in Baldur's Gate central market. Items last 2 days.
+- BGEE: in Beregost and later in Baldur's Gate central market. Items last 4 days.
    
-- IWDEE: in Kuldahar, looking into the void. Items last 5 days.
+- IWDEE: in Kuldahar, looking into the void. Items last a week.
