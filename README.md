@@ -6,7 +6,7 @@
 
 **Autor** : **Deratiseur**
 
-[Lien vers le forum du mod en français et la descrition complète](https://www.baldursgateworld.fr/viewtopic.php?t=33955)
+[Lien vers le forum du mod en français et la descrition complète](https://www.baldursgateworld.fr/viewtopic.php?t=33955)  
 [Link to the beamdog forum](https://forums.beamdog.com/discussion/89445/mod-crossclass-powerkits/p1?new=1)    
 
 
